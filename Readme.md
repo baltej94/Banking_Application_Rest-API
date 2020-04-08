@@ -10,7 +10,17 @@ Offered services:
 
 It uses a PostgreSql database to handle the persistence layer.
 
-API
+PREREQUISITES:
+lombok jar
+Postgres database
+
+Open your IDE and Import as existing maven project in your workspace
+- Import existing maven project
+- Run mvn clean install
+- Run As Spring Boot App
+
+
+API:
 GET  /allCustomers
 POST /createCustomer
 GET  /getCustomer/{customerNumber}
