@@ -22,13 +22,23 @@ Open your IDE and Import as existing maven project in your workspace
 
 API:
 
-GET  /allCustomers
-POST /createCustomer
-GET  /getCustomer/{customerNumber}
-POST /updateCustomer/{customerNumber}
-POST /deleteCustomer/{customerNumber}
-POST /addCustomerAccount/{customerNumber}
-GET  /getAccount/{accountNumber}
-POST /depositFunds/{customerNumber}
-POST /transferFunds/{customerNumber}
-POST /getTransactions/{accountNumber}
+-GET  /allCustomers
+
+-POST /createCustomer
+
+-GET  /getCustomer/{customerNumber}
+
+-POST /updateCustomer/{customerNumber}
+
+-POST /deleteCustomer/{customerNumber}
+
+-POST /addCustomerAccount/{customerNumber}
+
+-GET  /getAccount/{accountNumber}
+
+-POST /depositFunds/{customerNumber}
+
+-POST /transferFunds/{customerNumber}
+
+-POST /getTransactions/{accountNumber}
+
