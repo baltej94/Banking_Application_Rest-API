@@ -11,7 +11,9 @@ Offered services:
 It uses a PostgreSql database to handle the persistence layer.
 
 PREREQUISITES:
+
 lombok jar
+
 Postgres database
 
 Open your IDE and Import as existing maven project in your workspace
