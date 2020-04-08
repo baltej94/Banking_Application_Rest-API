@@ -8,7 +8,7 @@ Offered services:
 -Account transactions: deposit, withdrawal and transfer
 -Account information: account details, list of transaction
 
-It uses a PostgreSql database and spring data to handles the persistence layer.
+It uses a PostgreSql database to handle the persistence layer.
 
 API
 GET  /allCustomers
