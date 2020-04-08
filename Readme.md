@@ -21,6 +21,7 @@ Open your IDE and Import as existing maven project in your workspace
 
 
 API:
+
 GET  /allCustomers
 POST /createCustomer
 GET  /getCustomer/{customerNumber}
